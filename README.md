@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains Python code for a library management system that connects to a local MySQL database. The application provides a Python GUI that allows users to add, delete, and retrieve data from the database, simulating a basic school library management application.
+This repository contains Python code for a library management system that connects to a local MySQL database. The application provides a Python GUI that allows users to add, delete, and retrieve data via forms and reports from the database, simulating a basic school library management application.
 
 ---
 
