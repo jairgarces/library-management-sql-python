@@ -96,3 +96,11 @@ The Reports section allows users to generate reports based on database data. Som
 - MySQL
 - MySQL Workbench
 - mysql-connector-python
+
+## Authors
+
+ - Jair Garces
+ - Kevin Rivera
+ - Steven Schmitz
+ - Nate Agbemadon
+ - Collin Ryan
